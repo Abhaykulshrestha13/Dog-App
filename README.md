@@ -4,6 +4,10 @@
 
 An App by which you can search and download images of any dog's breed.
 
+## Technology Used
+
+1.Api - [a link](https://dog.ceo/dog-api/)
+
 ## Screenshots
 
 [<img src="/readme/Wallabag%20Reading%20List.png" align="left"
