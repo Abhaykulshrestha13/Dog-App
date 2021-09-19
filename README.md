@@ -4,9 +4,14 @@
 
 An App by which you can search and download images of any dog's breed.
 
-## Technology Used
+## Technologies Used
 
-1.Api - [a link](https://dog.ceo/dog-api/)
+- Api - [Dog Api](https://dog.ceo/dog-api/)
+- Retrofit library
+- Androidnetworking library
+- Glide library
+- Prdownloader library
+- Dexter library
 
 ## Screenshots
 
