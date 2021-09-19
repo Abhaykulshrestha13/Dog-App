@@ -2,7 +2,7 @@
 
 ## About
 
-An App by which you can search images of any dog's breed and download images.
+An App by which you can search and download images of any dog's breed.
 
 ## Screenshots
 
