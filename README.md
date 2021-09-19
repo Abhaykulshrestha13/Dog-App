@@ -17,13 +17,13 @@ An App by which you can search and download images of any dog's breed.
 
 [<img src="/readme/1.jpg" align="left"
 width="200"
-    hspace="10" vspace="10">]
+    hspace="10" vspace="10">]("/readme/1.jpg")
 [<img src="/readme/2.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">]
-[<img src="/readme/3.jpg" align="right"
+    hspace="10" vspace="10">]("/readme/2.jpg")
+[<img src="/readme/3.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">]
+    hspace="10" vspace="10">]("/readme/3.jpg")
       
 
 ## Permissions
